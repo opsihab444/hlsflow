@@ -1,6 +1,6 @@
 # Change input and output details
 
-output_path="toh-phir-aao" # Output Path (Same will be pushed in main also)
+output_path="too" # Output Path (Same will be pushed in main also)
 input_url="https://anondrop.net/1427640600009769001/Toh%20Phir%20Aao%20(Lyrics)%20_%20@MustafaZahidOfficial%20_%20Awarapan%20_.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
